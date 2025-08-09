@@ -112,13 +112,5 @@ Used **GridSearchCV** to optimize RandomForest and GradientBoosting:
 
 ---
 
-## 🚀 Future Improvements
-
-- Try **XGBoost** or **LightGBM** for faster and potentially more accurate results.
-- Incorporate external datasets (e.g., economic indicators, crime rates).
-- Deploy model via a web app for real-time predictions.
-
----
-
 **Author**: Abdirazak Mubarak
 **Dataset**: [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
