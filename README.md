@@ -85,13 +85,13 @@ Used **GridSearchCV** to optimize RandomForest and GradientBoosting:
 
 ## 8️⃣ Results
 
-| Model                     | RMSE | R²  |
-| ------------------------- | ---- | --- |
-| Linear Regression         | ...  | ... |
-| Random Forest             | ...  | ... |
-| Gradient Boosting         | ...  | ... |
-| Random Forest (Tuned)     | ...  | ... |
-| Gradient Boosting (Tuned) | ...  | ... |
+| Model                     | RMSE     | R²     |
+| ------------------------- | -------- | ------ |
+| Linear Regression         | 77469.29 | 0.5420 |
+| Random Forest             | 50272.63 | 0.8071 |
+| Gradient Boosting         | 53667.02 | 0.7802 |
+| Random Forest (Tuned)     | 49633.68 | 0.8120 |
+| Gradient Boosting (Tuned) | 47029.25 | 0.8312 |
 
 ---
 
